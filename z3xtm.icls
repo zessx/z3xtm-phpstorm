@@ -1,4 +1,4 @@
-<scheme name="z3xtm" version="1" parent_scheme="Default">
+<scheme name="z3xtm" version="142" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="CONSOLE_FONT_NAME" value="Monospaced" />
@@ -43,7 +43,7 @@
     <option name="LINE_NUMBERS_COLOR" value="888888" />
     <option name="METHOD_SEPARATORS_COLOR" value="4d4d4d" />
     <option name="MODIFIED_LINES_COLOR" value="e87d3e" />
-    <option name="NOTIFICATION_BACKGROUND" value="e5b567" />
+    <option name="NOTIFICATION_BACKGROUND" value="5b7589" />
     <option name="READONLY_FRAGMENT_BACKGROUND" value="" />
     <option name="RECURSIVE_CALL_ATTRIBUTES" value="574300" />
     <option name="RIGHT_MARGIN_COLOR" value="323232" />
@@ -87,7 +87,6 @@
         <option name="FOREGROUND" value="d6d6d6" />
       </value>
     </option>
-    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BASH.SUBSHELL_COMMAND">
       <value>
         <option name="FOREGROUND" value="e87d3e" />
